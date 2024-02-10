@@ -1,3 +1,4 @@
+package Lab8;
 public class Singer {
     String name ;
     Style style ;
